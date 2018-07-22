@@ -1,0 +1,5 @@
+0,List of all types of vaccines,*,*,Here is the list of all vaccines:#Newline 1.BCG#Newline 2.Hepatitis B#Newline 3.OPV#Newline 4.DTaP#Newline 5.HiB#Newline 6.Rotavirus#Newline 7.MMR#Newline 8.Varicella#Newline 9.Hepatitis A#Newline 10.PCV#Newline,list.aiml
+0,list * vaccines,*,*,<srai>List of all types of vaccines</srai>,list.aiml
+0,* list * vaccines,*,*,<srai>List of all types of vaccines</srai>,list.aiml
+0,vaccines list,*,*,<srai>List of all types of vaccines</srai>,list.aiml
+0,list,*,*,<srai>List of all types of vaccines</srai>,list.aiml

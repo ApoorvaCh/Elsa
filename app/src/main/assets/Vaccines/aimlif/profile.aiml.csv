@@ -1,0 +1,160 @@
+0,What is your name?,*,*,<random><li>People call me Elsa. What is your name? </li><li>My name is Elsa. What is your name? </li><li>Call me Elsa. What is your name? </li><li>I am called Elsa. What is your name? </li><li>You can call me Elsa. What is your name? </li><li>I am Elsa. What is your name?</li></random>,that.aiml
+0,name?,*,*,<srai>What is your name?</srai>,profile.aiml
+0,* name ,*,*,<srai>What is your name?</srai>,profile.aiml
+0,name *,*,*,<srai>What is your name?</srai>,profile.aiml
+0,How Can I call you? ,*,*,You can call me Elsa,profile.aiml
+0,* call *,*,*,<srai>What is your name?</srai>,profile.aiml
+0,* call ,*,*,<srai>What is your name?</srai>,profile.aiml
+0,call *,*,*,<srai>What is your name?</srai>,profile.aiml
+0,My name is *,*,*,<random><li>Hello#Comma <star/>. </li><li>Pleased to meet you#Comma <star/>.</li><li>What's up#Comma <star/>.</li><li>Ok I will call you <star/>.</li><li>I am always glad to make new friends#Comma <star/>.</li><li>That's a very nice name#Comma <star/>.</li><li>how are you#Comma <star/>.</li><li>It's good to meet you#Comma <star/>.</li><li>How are you doing#Comma <star/>. </li><li>I'm pleased to introduce myself to you#Comma <star/>. </li><li>It's good to see you <star/>. </li><li>Hey <star/>. </li><li>Nice to meet you <star/>. </li><li>Hi there <star/>. </li><li>I am very pleased to meet you <star/>. </li><li>How are you#Comma <star/>. </li><li>Glad to see you#Comma <star/> </li> </random>,profile.aiml
+0,I'm *,*,*,<srai>My name is <star/> </srai>,profile.aiml
+0,* is my name,*,*,<srai>My name is <star/> </srai>,profile.aiml
+0,I am *,*,*,<srai>My name is <star/></srai>,profile.aiml
+0,* call me *,*,*,nice to meet you#Comma <star index="2"/>,profile.aiml
+0,call me *,*,*,<srai>My name is <star/> </srai>,profile.aiml
+0,nthng,*,*,<random> <li>Hmm</li><li>Oh</li><li>Umm</li><li>Hm </li><li>Hmmm </li><li>Ummm </li><li>Aha </li><li>Well </li><li>Mmm </li></random>,profile.aiml
+0,nothing,*,*,<srai>nthng</srai>,profile.aiml
+0,just like that,*,*,<srai>nthng</srai>,profile.aiml
+0,doing *,*,*,<srai>nthng</srai>,profile.aiml
+0,* doing *,*,*,<srai>nthng</srai>,profile.aiml
+0,Thank you,*,*,<random><li>you’re welcome </li> <li>not at all </li><li>don’t mention it </li><li>my pleasure </li><li>it’s nothing </li><li>that's all right </li></random>,profile.aiml
+0,thanks,*,*,<srai>Thank you </srai>,profile.aiml
+0,thankq,*,*,<srai>Thank you </srai>,profile.aiml
+0,tnq,*,*,<srai>Thank you </srai>,profile.aiml
+0,tq,*,*,<srai>Thank you </srai>,profile.aiml
+0,tu,*,*,<srai>Thank you </srai>,profile.aiml
+0,thank you *,*,*,<srai>Thank you </srai>,profile.aiml
+0,thanks *,*,*,<srai>Thank you </srai>,profile.aiml
+0,thankq *,*,*,<srai>Thank you </srai>,profile.aiml
+0,tnq *,*,*,<srai>Thank you </srai>,profile.aiml
+0,tq *,*,*,<srai>Thank you </srai>,profile.aiml
+0,tu *,*,*,<srai>Thank you </srai>,profile.aiml
+0,Hmm,*,*,Hmm,profile.aiml
+0,Hm,*,*,Hmm,profile.aiml
+0,umm,*,*,Hmm,profile.aiml
+0,Ok,*,*,Hmm,profile.aiml
+0,Okay,*,*,Hmm,profile.aiml
+0,fine,*,*,sounds good,profile.aiml
+0,f9,*,*,sounds good,profile.aiml
+0,fn,*,*,sounds good,profile.aiml
+0,* fn,*,*,sounds good,profile.aiml
+0,* fine,*,*,sounds good,profile.aiml
+0,what are you doing,*,*,<random><li>I've been waiting for you</li><li>I'm working for you</li><li>I'm giving you my full attention</li> </random>,profile.aiml
+0,what doing,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,wt dng,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,dng,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,* dng,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,dng *,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,doing *,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,* doing,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,* doing *,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,* dng *,*,*,<srai>What are you doing</srai> ,profile.aiml
+0,How are you,*,*,<random><li>Feeling really joyful today.</li><li>Always cheered up when I see you. </li><li>Glad to be in your presence. </li><li>I'm very well. How are you doing?</li><li>Glad to see you.</li><li>Excited to talk with you.</li></random>,profile.aiml
+0,hw r u,*,*,<srai>How are you</srai>,profile.aiml
+0,hw r u *,*,*,<srai>How are you</srai>,profile.aiml
+0,how r u *,*,*,<srai>How are you</srai>,profile.aiml
+0,how are you *,*,*,<srai>How are you</srai>,profile.aiml
+0,What about you,*,*,<srai>How are you</srai>,profile.aiml
+0,Wt abt u,*,*,<srai>How are you</srai>,profile.aiml
+0,What about you *,*,*,<srai>How are you</srai>,profile.aiml
+0,Wt abt u *,*,*,<srai>How are you</srai>,profile.aiml
+0,same here,*,*,hmm,profile.aiml
+0,e,*,*,eeeeeeeeeeee,profile.aiml
+0,smile please,*,*,eeeeeeeeeeee,profile.aiml
+0,smile,*,*,eeeeeeeeeeee,profile.aiml
+0,smile pls,*,*,eeeeeeeeeeee,profile.aiml
+0,good,*,*,hmm,profile.aiml
+0,gud,*,*,hmm,profile.aiml
+0,good *,*,*,hmm,profile.aiml
+0,gud *,*,*,hmm,profile.aiml
+0,* good,*,*,hmm,profile.aiml
+0,* gud,*,*,hmm,profile.aiml
+0,who created you,*,*,I was created by Apoorva Chennuru ,profile.aiml
+0,Who programmed you ,*,*,I was created by Apoorva Chennuru ,profile.aiml
+0,* created by,*,*,I was created by Apoorva Chennuru ,profile.aiml
+0,* created by *,*,*,I was created by Apoorva Chennuru ,profile.aiml
+0,created by *,*,*,I was created by Apoorva Chennuru ,profile.aiml
+0,developed *,*,*,I was created by Apoorva Chennuru ,profile.aiml
+0,* developed *,*,*,I was created by Apoorva Chennuru ,profile.aiml
+0,* get * name * ,*,*,I gave it to myself actually ,that.aiml
+0,How * ,I gave it to myself actually ,*,Because I like the sound of it#Comma 'ELSA',that.aiml
+0,* robot * human ,*,*,what do you think?,that.aiml
+0,robot,what do you think,*,So you think I am a robot,that.aiml
+0,* robot,what do you think,*,So you think I am a robot,that.aiml
+0,robot *,what do you think,*,So you think I am a robot,that.aiml
+0,* robot *,what do you think,*,So you think I am a robot,that.aiml
+0,yes,So you think I am a robot,*,Hurrah!,that.aiml
+0,yup*,So you think I am a robot,*,Hurrah!,that.aiml
+0,yup,So you think I am a robot,*,Hurrah!,that.aiml
+0,yeah,So you think I am a robot,*,Hurrah!,that.aiml
+0,human,what do you think,*,So you think I am a human,that.aiml
+0,* human,what do you think,*,So you think I am a human,that.aiml
+0,human *,what do you think,*,So you think I am a human,that.aiml
+0,* human *,what do you think,*,So you think I am a human,that.aiml
+0,yes,So you think I am a human,*,Hurrah!,that.aiml
+0,yup*,So you think I am a human,*,Hurrah!,that.aiml
+0,yup,So you think I am a human,*,Hurrah!,that.aiml
+0,yeah,So you think I am a human,*,Hurrah!,that.aiml
+0,* human * robot,*,*,<srai>* robot * human</srai>,that.aiml
+0,hahaha,*,*,hahaha,profile.aiml
+0,haha,*,*,hahaha,profile.aiml
+0,lol,*,*,hahaha,profile.aiml
+0,ttyl,*,*,Ok bye.,profile.aiml
+0,bye,*,*,bye bye,profile.aiml
+0,bubye,*,*,bye bye,profile.aiml
+0,bye *,*,*,bye bye,profile.aiml
+0,nice,*,*,hmm,profile.aiml
+0,please,*,*,hmm,profile.aiml
+0,stop,*,*,hmm,profile.aiml
+0,pls,*,*,hmm,profile.aiml
+0,oh,*,*,hmm,profile.aiml
+0,ohh,*,*,hmm,profile.aiml
+0,ohkk,*,*,hmm,profile.aiml
+0,oh *,*,*,hmm,profile.aiml
+0,kk,*,*,hmm,profile.aiml
+0,kk *,*,*,hmm,profile.aiml
+0,ok *,*,*,hmm,profile.aiml
+0,okk *,*,*,hmm,profile.aiml
+0,okk,*,*,hmm,profile.aiml
+0,who are you,*,*,I'm a mobile virtual assistant,profile.aiml
+0,cool,*,*,:),profile.aiml
+0,* cool,*,*,:),profile.aiml
+0,cool *,*,*,:),profile.aiml
+0,* actor,*,*,Mahesh Babu#Comma because he is not only one of the finest actors but also very family person. He does not involve in unnecessary issues and matters. He does his work#Comma no matter it is a hit or a flap movie#Comma he takes a break#Comma spends some time with his family. Then continues to do his job again. Very calm and cool.,profile.aiml
+0,* actor *,*,*,<srai>* actor</srai>,profile.aiml
+0,actor *,*,*,<srai>* actor</srai>,profile.aiml
+0,actor,*,*,<srai>* actor</srai>,profile.aiml
+0,* actoress,*,*,Kajal Aggarwal#Comma because she is a most beautiful lady actress in indian cinema,profile.aiml
+0,* actoress *,*,*,<srai>* actoress</srai>,profile.aiml
+0,actoress *,*,*,<srai>* actoress</srai>,profile.aiml
+0,actoress,*,*,<srai>* actoress</srai>,profile.aiml
+0,* kajal aggarwal ,*,*,she is a most beautiful lady actress in indian cinema,profile.aiml
+0,* kajal *,*,*,<srai>* kajal aggarwal</srai>,profile.aiml
+0,kajal agarwal *,*,*,<srai>* kajal aggarwal</srai>,profile.aiml
+0,kajal agarwal,*,*,<srai>* kajal aggarwal</srai>,profile.aiml
+0,* mahesh babu,*,*,Mahesh Babu is not only one of the finest actors but also very family person. He does not involve in unnecessary issues and matters. He does his work#Comma no matter it is a hit or a flap movie#Comma he takes a break#Comma spends some time with his family. Then continues to do his job again. Very calm and cool.,profile.aiml
+0,* mahesh babu *,*,*,<srai>* mahesh babu</srai>,profile.aiml
+0,mahesh babu *,*,*,<srai>* mahesh babu</srai>,profile.aiml
+0,mahesh babu,*,*,<srai>* mahesh babu</srai>,profile.aiml
+0,good morning,*,*,<random><li> good morning :)</li><li> very good morning :)</li><li>Good morning. Have a nice day:)</li></random>,profile.aiml
+0,gm,*,*,<srai>good morning </srai>,profile.aiml
+0,gm *,*,*,<srai>good morning </srai>,profile.aiml
+0,good morning *,*,*,<srai>good morning </srai>,profile.aiml
+0,gud mrng,*,*,<srai>good morning </srai>,profile.aiml
+0,gd mrng,*,*,<srai>good morning </srai>,profile.aiml
+0,gud mrng *,*,*,<srai>good morning </srai>,profile.aiml
+0,gd mrng *,*,*,<srai>good morning </srai>,profile.aiml
+0,* gud mrng,*,*,<srai>good morning </srai>,profile.aiml
+0,* gd mrng,*,*,<srai>good morning </srai>,profile.aiml
+0,good night,*,*,Good night#Comma Sweet Dreams#Comma Keep Smiling :),profile.aiml
+0,good night *,*,*,<srai>good night</srai>,profile.aiml
+0,* good night,*,*,<srai>good night</srai>,profile.aiml
+0,gn,*,*,<srai>good night</srai>,profile.aiml
+0,gn *,*,*,<srai>good night</srai>,profile.aiml
+0,* gn,*,*,<srai>good night</srai>,profile.aiml
+0, gd n8,*,*,<srai>good night</srai>,profile.aiml
+0, gud n8,*,*,<srai>good night</srai>,profile.aiml
+0,* gd n8,*,*,<srai>good night</srai>,profile.aiml
+0,gd n8 *,*,*,<srai>good night</srai>,profile.aiml
+0,* gud n8,*,*,<srai>good night</srai>,profile.aiml
+0,gud n8 *,*,*,<srai>good night</srai>,profile.aiml

@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+<pattern>Type of BCG </pattern>
+<template>BCG is a live Bacteria. </template>
+<category>
+
+<category>
+<pattern>Type of tb </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>type of tuberculosis </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>BCG type </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>tb type </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>tuberculosis type </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>type * BCG </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>type * tb </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>Type * tuberculosis </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type BCG </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type tb </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type tuberculosis </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type * BCG </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type * tb </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type * tuberculosis </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+
+
+<category>
+<pattern>Type of BCG *</pattern>
+<template>BCG is a live Bacteria. </template>
+<category>
+
+<category>
+<pattern>Type of tb *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>type of tuberculosis *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>BCG * type </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>tb * type </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>tuberculosis * type </pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>type * BCG *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>type * tb *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>Type * tuberculosis *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type BCG *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type tb *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type tuberculosis *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type * BCG *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type * tb *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>* type * tuberculosis *</pattern>
+<template><srai>Type of BCG</srai> </template>
+</category>
+
+<category>
+<pattern>Type of OPV </pattern>
+<template>OPV is attenuated viral vaccine. </template>
+</category>
+
+<category>
+<pattern>type of polio </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type of Oral polio vaccine </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>OPV type </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>polio type </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>Oral polio vaccine type </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type * OPV </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type * polio </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type * Oral polio vaccine </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type OPV </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type polio </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type Oral polio vaccine </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * OPV </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * polio </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Oral polio vaccine </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>Type of OPV *</pattern>
+<template>OPV is attenuated viral vaccine. </template>
+</category>
+
+<category>
+<pattern>type of polio *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type of Oral polio vaccine *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>OPV * type </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>polio * type </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>Oral polio vaccine * type </pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type * OPV *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type * polio *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>type * Oral polio vaccine *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type OPV *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type polio *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type Oral polio vaccine *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * OPV *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * polio *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Oral polio vaccine *</pattern>
+<template><srai>Type of OPV</srai> </template>
+</category>
+
+
+<category>
+<pattern>type of hepatitis b </pattern>
+<template>Hepatitis B is Recombinant subunit vaccine. </template>
+</category>
+
+<category>
+<pattern>type of hep b</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type of hepatitisb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type of hepb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hepatitis b type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hep b type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hepatitisb type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hepb type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hepatitis b</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hep b </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hepatitisb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hepb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hepatitis b</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hep b</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hepatitisb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hepb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hepatitis b</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hep b</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hepatitisb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hepb</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type of hepatitis b *</pattern>
+<template>Hepatitis B is Recombinant subunit vaccine. </template>
+</category>
+
+<category>
+<pattern>type of hep b *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type of hepatitisb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type of hepb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hepatitis b * type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hep b * type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hepatitisb * type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>hepb * type </pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hepatitis b *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hep b *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hepatitisb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>type * hepb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hepatitis b *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hep b *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hepatitisb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type hepb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hepatitis b *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hep b *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hepatitisb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+<category>
+<pattern>* type * hepb *</pattern>
+<template><srai>type of hepatitis b </srai> </template>
+</category>
+
+
+
+
+
+
+
+<category>
+<pattern>type of DPT </pattern>
+<template>It is a Toxoid vaccine </template>
+</category>
+
+<category>
+<pattern>type of DTP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of DTaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of DTwP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DPT type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTP type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTwP type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DPT</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DTP </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DTaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DTwP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DPT</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DTP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DTaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DTwP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DPT</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DTP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DTaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DTwP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of DPT *</pattern>
+<template>It is a Toxoid vaccine. </template>
+</category>
+
+<category>
+<pattern>type of DTP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of DTaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of DTwP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DPT * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTP * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTwP * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DPT *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DTP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DTaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DTwP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DPT *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DTP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DTaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DTwP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DPT *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DTP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DTaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DTwP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of DT </pattern>
+<template>It is a Toxoid vaccine </template>
+</category>
+
+<category>
+<pattern>type of Td</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of TdaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DT type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Td type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>TdaP type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DT</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Td </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * TdaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DT</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Td</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type TdaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DT</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Td</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * TdaP</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of DT *</pattern>
+<template>It is a Toxoid vaccine. </template>
+</category>
+
+<category>
+<pattern>type of Td *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of TdaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DT * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Td * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>TdaP * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * DT *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Td *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * TdaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type DT *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Td *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type TdaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * DT *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Td *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * TdaP *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of Tetanus </pattern>
+<template>It is a Toxoid vaccine </template>
+</category>
+
+<category>
+<pattern>type of Pertusis</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of Diphtheria</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Tetanus type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Pertusis type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Diphtheria type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Tetanus</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Pertusis </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Diphtheria</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Tetanus</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Pertusis</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Diphtheria</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Tetanus</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Pertusis</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Diphtheria</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of Tetanus *</pattern>
+<template>It is a Toxoid vaccine. </template>
+</category>
+
+<category>
+<pattern>type of Pertusis *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type of Diphtheria *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Tetanus * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Pertusis * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Diphtheria * type </pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Tetanus *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Pertusis *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>type * Diphtheria *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Tetanus *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Pertusis *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type Diphtheria *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Tetanus *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Pertussis *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* type * Diphtheria *</pattern>
+<template><srai>type of DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Type of Hib </pattern>
+<template>It is a Polysaccharide-protein conjugate vaccine. </template>
+<category>
+
+<category>
+<pattern>Type of Haemophilus Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type of Haemophilus Influenza B </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>HiB type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Influenza type b type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Influenza B type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * HiB </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * Haemophilus Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Haemophilus Influenza B </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type HiB </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type Haemophilus Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type Haemophilus Influenza B </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * HiB </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Haemophilus Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Haemophilus Influenza B </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Type of HiB *</pattern>
+<template><srai>Type of Hib</srai> </template>
+<category>
+
+<category>
+<pattern>Type of Haemophilus Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type of Haemophilus Influenza B *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>HiB * type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Influenza type b * type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Influenza B * type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * HiB *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * Haemophilus Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Haemophilus Influenza B *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type HiB *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type Haemophilus Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type Haemophilus Influenza B *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * HiB *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Haemophilus Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Haemophilus Influenza B *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Haemophilus influenza </pattern>
+<template><srai>Type of Hib</srai> </template>
+<category>
+
+<category>
+<pattern>Type of H. Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus influenza type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>H. Influenza type b type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * Haemophilus influenza </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * H. Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type Haemophilus influenza </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type H. Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Haemophilus influenza </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * H. Influenza type b </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Haemophilus influenza *</pattern>
+<template><srai>Type of Hib</srai> </template>
+<category>
+
+<category>
+<pattern>Type of H. Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus influenza * type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>H. Influenza type b * type </pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * Haemophilus influenza *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>type * H. Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type Haemophilus influenza *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type H. Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Haemophilus influenza *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>* type * H. Influenza type b *</pattern>
+<template><srai>Type of Hib</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Rotavirus </pattern>
+<template>It is an Live - attenuated viral vaccine. </template>
+<category>
+
+<category>
+<pattern>Type of Rota virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type of RV5 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Rotavirus type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Rota virus type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>RV5 type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * Rotavirus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * Rota virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Type * RV5 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type Rotavirus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type Rota virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type RV5 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Rotavirus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Rota virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * RV5 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Rotavirus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+<category>
+
+<category>
+<pattern>Type of Rota virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type of RV5 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Rotavirus * type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Rota virus * type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>RV5 * type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * Rotavirus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * Rota virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Type * RV5 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type Rotavirus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type Rota virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type RV5 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Rotavirus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Rota virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * RV5 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Type of RV1 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+<category>
+
+<category>
+<pattern>Type of RNA virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>RV1 type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>RNA virus type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * RV1 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * RNA virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type RV1 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type RNA virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * RV1 </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * RNA virus </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Type of RV1 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+<category>
+
+<category>
+<pattern>Type of RNA virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>RV1 * type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>RNA virus * type </pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * RV1 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>type * RNA virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type RV1 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type RNA virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * RV1 *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>* type * RNA virus *</pattern>
+<template><srai>Type of Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>Type of MMR </pattern>
+<template>It is an Live - attenuated vaccine. </template>
+<category>
+
+<category>
+<pattern>Type of MPR </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type of Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>MMR type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>MPR type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Rubella type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * MMR </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * MPR </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type MMR </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type MPR </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * MMR </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * MPR </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Type of MMR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+<category>
+
+<category>
+<pattern>Type of MPR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type of Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>MMR * type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>MPR * type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Rubella * type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * MMR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * MPR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type MMR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type MPR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * MMR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * MPR *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Type of MMRV </pattern>
+<template><srai>Type of MMR</srai> </template>
+<category>
+
+<category>
+<pattern>Type of Measles, Mumps and Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>MMRV type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Measles, Mumps and Rubella type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * MMRV </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * Measles, Mumps and Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type MMRV </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type Measles, Mumps and Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * MMRV </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Measles, Mumps and Rubella </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Type of MMRV *</pattern>
+<template><srai>Type of MMR</srai> </template>
+<category>
+
+<category>
+<pattern>Type of Measles, Mumps and Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>MMRV * type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Measles, Mumps and Rubella * type </pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * MMRV *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>type * Measles, Mumps and Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type MMRV *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type Measles, Mumps and Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * MMRV *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Measles, Mumps and Rubella *</pattern>
+<template><srai>Type of MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Varicella </pattern>
+<template>It is a Live - attenuated vaccine. </template>
+<category>
+
+<category>
+<pattern>Type of Chickenpox </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>type of Varivax </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Varicella type </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Chickenpox type </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Varivax type </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>type * Varicella </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>type * Chickenpox </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Varivax </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type Varicella </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type Chickenpox </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type Varivax </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Varicella </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Chickenpox </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Varivax </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Varicella *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+<category>
+
+<category>
+<pattern>Type of Chickenpox *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>type of Varivax *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Varicella * type </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Chickenpox * type </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Varivax * type </pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>type * Varicella *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>type * Chickenpox *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Varivax *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type Varicella *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type Chickenpox *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type Varivax *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Varicella *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Chickenpox *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Varivax *</pattern>
+<template><srai>Type of Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Hepatitis A </pattern>
+<template>It is an Inactivate (killed) viral vaccine. </template>
+<category>
+
+<category>
+<pattern>Type of HAV </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>type of Hep A </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis A type </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>HAV type </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Hep A type </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>type * Hepatitis A </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>type * HAV </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Hep A </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type Hepatitis A </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type HAV </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type Hep A </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Hepatitis A </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type * HAV </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Hep A </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Type of Hepatitis A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+<category>
+
+<category>
+<pattern>Type of HAV *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>type of Hep A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis A * type </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>HAV * type </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Hep A * type </pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>type * Hepatitis A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>type * HAV *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Type * Hep A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type Hepatitis A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type HAV *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type Hep A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Hepatitis A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type * HAV *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Hep A *</pattern>
+<template><srai>Type of Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>Type of PCV </pattern>
+<template>It is a Polysaccharide vaccine </template>
+<category>
+
+<category>
+<pattern>Type of Pneumococcal </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>type of conjugate </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>BCG type </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>Pneumococcal type </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>conjugate type </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>type * BCG </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>type * Pneumococcal </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>Type * conjugate </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type BCG </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type Pneumococcal </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type conjugate </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * BCG </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Pneumococcal </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * conjugate </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+
+
+<category>
+<pattern>Type of BCG *</pattern>
+<template><srai>Type of PCV</srai></template>
+<category>
+
+<category>
+<pattern>Type of Pneumococcal *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>type of conjugate *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>BCG * type </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>Pneumococcal * type </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>conjugate * type </pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>type * BCG *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>type * Pneumococcal *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>Type * conjugate *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type BCG *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type Pneumococcal *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type conjugate *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * BCG *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * Pneumococcal *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+<category>
+<pattern>* type * conjugate *</pattern>
+<template><srai>Type of PCV</srai> </template>
+</category>
+
+</aiml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+<category>
+<pattern>List of all types of vaccines  </pattern>
+<template>Here is the list of all vaccines: 1.BCG 2.Hepatitis B 3.OPV 4.DTaP 5.HiB 6.Rotavirus 7.MMR 8.Varicella 9.Hepatitis A 10.PCV </template>
+</category>
+
+<category>
+<pattern> List * vaccines</pattern>
+<template><srai>List of all types of vaccines</srai>  </template>
+</category>
+
+<category>
+<pattern>* List * vaccines</pattern>
+<template><srai>List of all types of vaccines</srai>  </template>
+</category>
+
+<category>
+<pattern> vaccines List</pattern>
+<template><srai>List of all types of vaccines</srai>  </template>
+</category>
+
+
+<category>
+<pattern> List</pattern>
+<template><srai>List of all types of vaccines</srai>  </template>
+</category>
+
+</aiml>

@@ -1,0 +1,440 @@
+0,Type of BCG,* ,*,BCG is a live Bacteria.,type.aiml
+0,type of tb,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type of tuberculosis,*,*,<srai>Type of BCG</srai>,type.aiml
+0,BCG type,*,*,<srai>Type of BCG</srai>,type.aiml
+0,tb type,*,*,<srai>Type of BCG</srai>,type.aiml
+0,tuberculosis type,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type * BCG,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type * tb,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type * tuberculosis,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type BCG,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type tb,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type tuberculosis,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type * BCG,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type * tb,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type * tuberculosis,*,*,<srai>Type of BCG</srai>,type.aiml
+0,Type of BCG *,* ,*,<srai>Type of BCG</srai>,type.aiml
+0,type of tb *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type of tuberculosis *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,BCG * type,*,*,<srai>Type of BCG</srai>,type.aiml
+0,tb * type,*,*,<srai>Type of BCG</srai>,type.aiml
+0,tuberculosis * type,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type * BCG *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type * tb *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type * tuberculosis *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type BCG *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type tb *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type tuberculosis *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type * BCG *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type * tb *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,* type * tuberculosis *,*,*,<srai>Type of BCG</srai>,type.aiml
+0,type of OPV,*,*,OPV is attenuated viral vaccine.,type.aiml 
+0,type of polio,*,*,<srai>type of OPV</srai>,type.aiml
+0,type of Oral polio vaccine,*,*,<srai>type of OPV</srai>,type.aiml
+0,OPV type,*,*,<srai>type of OPV</srai>,type.aiml
+0,polio type,*,*,<srai>type of OPV</srai>,type.aiml
+0,Oral polio vaccine type,*,*,<srai>type of OPV</srai>,type.aiml
+0,type * OPV,*,*,<srai>type of OPV</srai>,type.aiml
+0,type * polio,*,*,<srai>type of OPV</srai>,type.aiml
+0,type * Oral Polio Vaccine,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type OPV,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type polio,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type Oral polio vaccine,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type * OPV,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type * polio,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type * Oral polio vaccine,*,*,<srai>type of OPV</srai>,type.aiml
+0,type of OPV *,*,*,OPV is attenuated viral vaccine.,type.aiml 
+0,type of polio *,*,*,<srai>type of OPV</srai>,type.aiml
+0,type of Oral polio vaccine *,*,*,<srai>type of OPV</srai>,type.aiml
+0,OPV * type,*,*,<srai>type of OPV</srai>,type.aiml
+0,polio * type,*,*,<srai>type of OPV</srai>,type.aiml
+0,Oral polio vaccine * type,*,*,<srai>type of OPV</srai>,type.aiml
+0,type * OPV *,*,*,<srai>type of OPV</srai>,type.aiml
+0,type * polio *,*,*,<srai>type of OPV</srai>,type.aiml
+0,type * Oral Polio vaccine *,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type OPV *,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type polio *,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type Oral polio vaccine *,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type * OPV *,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type * polio *,*,*,<srai>type of OPV</srai>,type.aiml
+0,* type * Oral polio vaccine *,*,*,<srai>type of OPV</srai>,type.aiml
+0,type of hepatitis b,*,*,Hepatitis B is Recombinant subunit vaccine.,type.aiml
+0,type of hep b ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type of hepatitisb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type of hepb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hepatitis b type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hep b type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hepatitisb type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hepb type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hepatitis b ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hep b,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hepatitisb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hepb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hepatitis b,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hep b,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hepatitisb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hepb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hepatitis b,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hep b,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hepatitisb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hepb,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type of hepatitis b *,*,*,Hepatitis B is Recombinant subunit vaccine.,type.aiml
+0,type of hep b *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type of hepatitisb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type of hepb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hepatitis b * type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hep b * type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hepatitisb * type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,hepb * type ,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hepatitis b *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hep b *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hepatitisb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type * hepb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hepatitis b *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hep b *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hepatitisb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type hepb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hepatitis b *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hep b *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hepatitisb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,* type * hepb *,*,*,<srai>type of hepatitis b</srai>,type.aiml
+0,type of DPT,*,*,It is a Toxoid vaccine,type.aiml
+0,type of DTP ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of DTaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of DTwP,*,*,<srai>type of DPT</srai>,type.aiml
+0,DPT type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,DTP type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,DTaP type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,DTwP type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DPT ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DTP,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DTaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DTwP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DPT,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DTP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DTaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DTwP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DPT,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DTP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DTaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DTwP,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of DPT *,*,*,It is a Toxoid vaccine,type.aiml
+0,type of DTP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of DTaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of DTwP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,DPT * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,DTP * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,DTaP * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,DTwP * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DPT *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DTP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DTaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DTwP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DPT *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DTP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DTaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DTwP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DPT *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DTP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DTaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DTwP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of DT,*,*,It is a Toxoid vaccine,type.aiml
+0,type of Td ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of TdaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,DT type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,Td type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,TdaP type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DT ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Td,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * TdaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DT,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type Td,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type TdaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DT,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Td,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * TdaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of DT *,*,*,It is a Toxoid vaccine,type.aiml
+0,type of Td *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of TdaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,DT * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,Td * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,TdaP * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * DT *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Td *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * TdaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type DT *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type Td *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type TdaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * DT *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Td *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * TdaP *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of Tetanus,*,*,It is a Toxoid vaccine,type.aiml
+0,type of Pertussis ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of Diphtheria,*,*,<srai>type of DPT</srai>,type.aiml
+0,Tetanus type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,Pertussis type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,Diphtheria type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Tetanus ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Pertussis,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Diphtheria,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type Tetanus,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type Pertussis,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type TdaP,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Tetanus,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Pertussis,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Diphtheria,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of Tetanus *,*,*,It is a Toxoid vaccine,type.aiml
+0,type of Pertussis *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type of Diphtheria *,*,*,<srai>type of DPT</srai>,type.aiml
+0,Tetanus * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,Pertussis * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,Diphtheria * type ,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Tetanus *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Pertussis *,*,*,<srai>type of DPT</srai>,type.aiml
+0,type * Diphtheria *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type Tetanus *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type Pertussis *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type Diphtheria *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Tetanus *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Pertussis *,*,*,<srai>type of DPT</srai>,type.aiml
+0,* type * Diphtheria *,*,*,<srai>type of DPT</srai>,type.aiml
+0,Type of HiB,* ,*,It is a Polysaccharide-protein conjugate vaccine.,type.aiml
+0,type of Haemophilus Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type of Haemophilus Influenza B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,HiB type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Haemophilus Influenza type B type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Haemophilus Influenza B type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * HiB,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * Haemophilus Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * Haemophilus Influenza B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type HiB,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type Haemophilus Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type Haemophilus Influenza B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * HiB,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * Haemophilus Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * Haemophilus Influenza B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Type of HiB *,* ,*,<srai>Type of HiB</srai>,type.aiml
+0,type of Haemophilus Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type of Haemophilus Influenza B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,HiB * type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Haemophilus Influenza type B * type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Haemophilus Influenza B * type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * HiB *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * Haemophilus Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * Haemophilus Influenza B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type HiB *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type Haemophilus Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type Haemophilus Influenza B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * HiB *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * Haemophilus Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * Haemophilus Influenza B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Type of Haemophilus Infuluenza,* ,*,<srai>Type of HiB</srai>,type.aiml
+0,type of H. Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Haemophilus Infuluenza type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,H. Influenza type B type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * Haemophilus Infuluenza,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * H. Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type Haemophilus Infuluenza,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type H. Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * Haemophilus Infuluenza,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * H. Influenza type B,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Type of Haemophilus Infuluenza *,* ,*,<srai>Type of HiB</srai>,type.aiml
+0,type of H. Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Haemophilus Infuluenza * type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,H. Influenza type B * type,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * Haemophilus Infuluenza *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,type * H. Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type Haemophilus Infuluenza *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type H. Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * Haemophilus Infuluenza *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,* type * H. Influenza type B *,*,*,<srai>Type of HiB</srai>,type.aiml
+0,Type of Rotavirus,* ,*,It is an Live - attenuated viral vaccine.,type.aiml
+0,type of Rota virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type of RV5,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,rotavirus type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,Rota virus type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,RV5 type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * Rotavirus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * Rota virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * RV5,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type rotavirus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type Rota virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type RV5,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * rotavirus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * Rota virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * RV5,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,Type of rotavirus *,* ,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type of Rota virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type of RV5 *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,rotavirus * type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,Rota virus * type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,RV5 * type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * Rotavirus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * Rota virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * RV5 *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type rotavirus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type Rota virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type RV5 *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * rotavirus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * Rota virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * RV5 *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,Type of RV1,* ,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type of RNA virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,RV1 type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,RNA virus type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * RV1,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * RNA virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type RV1,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type RNA virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * RV1,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * RNA virus,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,Type of RV1 *,* ,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type of RNA virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,RV1 * type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,RNA virus * type,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * RV1 *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,type * RNA virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type RV1 *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type RNA virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * RV1 *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,* type * RNA virus *,*,*,<srai>Type of Rotavirus</srai>,type.aiml
+0,Type of MMR,* ,*,It is an Live - attenuated vaccine.,type.aiml
+0,type of MPR,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type of Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,MMR type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,MPR type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Rubella type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * MMR,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * MPR,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type MMR,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type MPR,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * MMR,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * MPR,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Type of MMR *,* ,*,<srai>Type of MMR</srai>,type.aiml
+0,type of MPR *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type of Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,MMR * type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,MPR * type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Rubella * type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * MMR *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * MPR *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type MMR *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type MPR *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * MMR *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * MPR *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Type of MMRV,* ,*,<srai>Type of MMR</srai>,type.aiml
+0,type of Measles#Comma Mumps and Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,MMRV type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Measles#Comma Mumps and Rubella type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * MMRV,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * Measles#Comma Mumps and Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type MMRV,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type Measles#Comma Mumps and Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * MMRV,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * Measles#Comma Mumps and Rubella,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Type of MMRV *,* ,*,<srai>Type of MMR</srai>,type.aiml
+0,type of Measles#Comma Mumps and Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,MMRV * type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Measles#Comma Mumps and Rubella * type,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * MMRV *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,type * Measles#Comma Mumps and Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type MMRV *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type Measles#Comma Mumps and Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * MMRV *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,* type * Measles#Comma Mumps and Rubella *,*,*,<srai>Type of MMR</srai>,type.aiml
+0,Type of Varicella,* ,*,It is a Live - attenuated vaccine.,type.aiml
+0,type of Chickenpox,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type of Varivax,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Varicella type,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Chickenpox type,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Varivax type,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type * Varicella,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type * Chickenpox,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type * Varivax,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type Varicella,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type Chickenpox,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type Varivax,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type * Varicella,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type * Chickenpox,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type * Varivax,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Type of Varicella *,* ,*,<srai>Type of Varicella</srai>,type.aiml
+0,type of Chickenpox *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type of Varivax *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Varicella * type,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Chickenpox * type,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Varivax * type,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type * Varicella *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type * Chickenpox *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,type * Varivax *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type Varicella *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type Chickenpox *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type Varivax *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type * Varicella *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type * Chickenpox *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,* type * Varivax *,*,*,<srai>Type of Varicella</srai>,type.aiml
+0,Type of Hepatitis A,* ,*,It is an Inactivate (killed) viral vaccine.,type.aiml
+0,type of HAV,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type of Hep A,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,Hepatitis A type,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,HAV type,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,Hep A type,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type * Hepatitis A,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type * HAV,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type * Hep A,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type Hepatitis A,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type HAV,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type Hep A,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type * Hepatitis A,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type * HAV,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type * Hep A,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,Type of Hepatitis A *,* ,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type of HAV *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type of Hep A *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,Hepatitis A * type,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,HAV * type,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,Hep A * type,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type * Hepatitis A *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type * HAV *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,type * Hep A *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type Hepatitis A *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type HAV *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type Hep A *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type * Hepatitis A *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type * HAV *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,* type * Hep A *,*,*,<srai>Type of Hepatitis A</srai>,type.aiml
+0,Type of PCV,* ,*,It is a Polysaccharide vaccine.,type.aiml
+0,type of Pneumococcal,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type of Conjugate,*,*,<srai>Type of PCV</srai>,type.aiml
+0,PCV type,*,*,<srai>Type of PCV</srai>,type.aiml
+0,Pneumococcal type,*,*,<srai>Type of PCV</srai>,type.aiml
+0,Conjugate type,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type * PCV,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type * Pneumococcal,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type * Conjugate,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type PCV,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type Pneumococcal,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type Conjugate,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type * PCV,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type * Pneumococcal,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type * Conjugate,*,*,<srai>Type of PCV</srai>,type.aiml
+0,Type of PCV *,* ,*,<srai>Type of PCV</srai>,type.aiml
+0,type of Pneumococcal *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type of Conjugate *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,PCV * type,*,*,<srai>Type of PCV</srai>,type.aiml
+0,Pneumococcal * type,*,*,<srai>Type of PCV</srai>,type.aiml
+0,Conjugate * type,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type * PCV *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type * Pneumococcal *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,type * Conjugate *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type PCV *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type Pneumococcal *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type Conjugate *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type * PCV *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type * Pneumococcal *,*,*,<srai>Type of PCV</srai>,type.aiml
+0,* type * Conjugate *,*,*,<srai>Type of PCV</srai>,type.aiml

@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+<pattern>Effectiveness of BCG </pattern>
+<template>BCG is the only vaccine currently available for the control of TB. Document evidence has established that it provides good protection in children against disseminated TB and TB meningitis.  </template>
+</category>
+
+<category>
+<pattern> Effectiveness of BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> Effectiveness of TB</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> Effectiveness of TB *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> Effectiveness of Tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> Effectiveness of Tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> TB Effectiveness</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> TB * Effectiveness</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> Tuberculosis Effectiveness</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> Tuberculosis * Effectiveness</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> BCG Effectiveness</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> BCG * Effectiveness</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Effectiveness * BCG</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Effectiveness * BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Effectiveness * tb</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Effectiveness * tb *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Effectiveness * tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Effectiveness * tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness BCG</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness tb</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness tb *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness * BCG</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness * BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness * tb</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness * tb *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness * tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Effectiveness * tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness * TB *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness * TB *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness TB *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness TB</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness TB *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness TB</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness * TB</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness * BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+
+<category>
+<pattern> * about Effectiveness * BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness BCG</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness BCG</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness * BCG</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+
+
+
+<category>
+<pattern> * about * Effectiveness * tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness * Tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness Tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness Tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness Tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness Tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness * Tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+
+
+<category>
+<pattern>  about * Effectiveness * BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+
+<category>
+<pattern>  about * Effectiveness * tb *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+
+<category>
+<pattern>  about * Effectiveness * tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+
+<category>
+<pattern>  about Effectiveness * BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness * tb *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness * tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness BCG *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness tb *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness tuberculosis *</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness BCG</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness tb</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness tuberculosis</pattern>
+<template><srai>Effectiveness of BCG  </srai> </template>
+</category>
+
+
+<category>  
+<pattern>Effectiveness of OPV </pattern>
+<template>OPVs are safe and effective and offer long lasting protection against the serotypes which they target. OPV stimulates good mucosal immunity, which is why it is so effective at interrupting transmission of the virus. </template>
+</category>
+
+<category> 
+<pattern>Effectiveness of OPV * </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness of Polio </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness of Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness of Oral poliovirus vaccine </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>OPV Effectiveness </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>OPV * Effectiveness </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Oral poliovirus vaccine effectiveness </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Polio Effectiveness </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Polio * Effectiveness </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness * OPV </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness * OPV *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness * Polio </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness * Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>Effectiveness * Oral poliovirus vaccine</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness OPV</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness OPV *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+
+<category> 
+<pattern>* Effectiveness Polio</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness Oral poliovirus vaccine </pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness * OPV</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness * OPV *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness * polio</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness * polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+<category> 
+<pattern>* Effectiveness *  Oral poliovirus vaccine</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>	
+
+
+<category>
+<pattern> * about * Effectiveness * Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+
+<category>
+<pattern> * about Effectiveness * Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness Polio</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness Polio</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness * Polio</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+
+
+
+<category>
+<pattern> * about * Effectiveness * Oral poliovirus vaccine *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness * Oral poliovirus vaccine *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness Oral poliovirus vaccine *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about Effectiveness Oral poliovirus vaccine</pattern>
+<template><srai>Effectiveness of OPV </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness Oral poliovirus vaccine *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness Oral poliovirus vaccine</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern> * about * Effectiveness * Oral poliovirus vaccine</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+
+
+<category>
+<pattern>  about * Effectiveness * OPV *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+
+<category>
+<pattern>  about * Effectiveness * Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+
+<category>
+<pattern>  about * Effectiveness * Oral poliovirus vaccine *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+
+<category>
+<pattern>  about Effectiveness * OPV *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness * Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness * Oral poliovirus vaccine *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness OPV *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness Polio *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness Oral poliovirus vaccine *</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness OPV</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness Polio</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>
+
+<category>
+<pattern>  about Effectiveness Oral poliovirus vaccine</pattern>
+<template><srai>Effectiveness of OPV  </srai> </template>
+</category>OPV
+
+<category>
+<pattern>Effectiveness of Hepatitis B </pattern>
+<template>Hepatitis B vaccine provides greater than 90% protection to immunized children and adults, for a long duration of time. </template>
+</category>
+
+<category>
+<pattern> Effectiveness of Hepatitis B *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Hep B </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Hep B *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of hepatitisb </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of hepatitisb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of hepb </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of hepb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hepatitis b </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hepatitis b *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hep b </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hep b *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hepatitisb </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hepatitisb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hepb </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * hepb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness hepatitis b </pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness hepatitis b *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness hep b</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness hep b *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness hepatitisb</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness hepatitisb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness hepb</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness hepb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hepatitis b</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hepatitis b *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hep b</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hep b *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hepatitisb</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hepatitisb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hepb</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * hepb *</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+
+<category>
+<pattern>hepatitis b Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>hepatitis b * Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>hep b Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>hep b * Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+
+<category>
+<pattern>hepatitisb Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>hepatitisb * Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>hepb Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+<category>
+<pattern>hepb * Effectiveness</pattern>
+<template><srai>Effectiveness of Hepatitis B  </srai></template>
+</category>
+
+
+<category>
+<pattern>Effectiveness of DPT </pattern>
+<template>There is not yet sufficient evidence on how effective this pentavalent vaccine is compared to the individual vaccines. </template>
+</category>
+
+<category>
+<pattern> Effectiveness of DPT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of DTP </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of DTP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of DTaP </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of DTaP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of DTwP </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of DTwP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DPT </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DPT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DTP </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DTP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DTaP </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DTaP *</pattern>
+<template><srai>Effectiveness of DPT </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DTwP </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DTwP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DPT </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DPT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DTP</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DTP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DTaP</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DTaP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness DTwP</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness DTwP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DPT</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DPT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DTP</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DTP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DTaP</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DTaP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DTwP</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DTwP *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+
+<category>
+<pattern>DPT Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DPT * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DTP Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DTP * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+
+<category>
+<pattern>DTaP Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DTaP * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DTwP Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DTwP * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Effectiveness of DT </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of DT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Td </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Td *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Tdap </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Tdap *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+
+<category>
+<pattern> Effectiveness * DT </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * DT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Td </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Td *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Tdap </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Tdap *</pattern>
+<template><srai>Effectiveness of DPT </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DT </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness DT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Td</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Td *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Tdap</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Tdap *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DT</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * DT *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Td</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Td *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Tdap</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Tdap *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DT Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>DT * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Td Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Td * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+
+<category>
+<pattern>Tdap Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Tdap * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Effectiveness of Tetanus </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Tetanus *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Pertussis </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Pertussis *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Diphtheria </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness of Diphtheria *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+
+<category>
+<pattern> Effectiveness * Tetanus </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Tetanus *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Pertussis </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Pertussis *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Diphtheria </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> Effectiveness * Diphtheria *</pattern>
+<template><srai>Effectiveness of DPT </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Tetanus </pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Tetanus *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Pertussis</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Pertussis *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Diphtheria</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern> * Effectiveness Diphtheria *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Tetanus</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Tetanus *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Pertussis</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Pertussis *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Diphtheria</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>* Effectiveness * Diphtheria *</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Tetanus Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Tetanus * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Pertussis Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Pertussis * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+
+<category>
+<pattern>Diphtheria Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+<category>
+<pattern>Diphtheria * Effectiveness</pattern>
+<template><srai>Effectiveness of DPT  </srai></template>
+</category>
+
+</aiml>

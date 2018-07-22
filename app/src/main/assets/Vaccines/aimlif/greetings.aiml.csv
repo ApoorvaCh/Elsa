@@ -1,0 +1,8 @@
+0,Hi,*,*,<random><li>Hi nice to see you! </li><li>Hi how are you? </li><li>Hi! It's delightful to see you.</li><li>Hi it's great to see you! </li></random>,greetings.aiml
+0,Hello,*,*,<srai>Hi</srai>,greetings.aiml
+0,Hey,*,*,<srai>Hi</srai>,greetings.aiml
+0,Hii,*,*,<srai>Hi</srai>,greetings.aiml
+0,Hello *,*,*,<srai>Hi</srai>,greetings.aiml
+0,Hi *,*,*,<srai>Hi</srai>,greetings.aiml
+0,Hey *,*,*,<srai>Hi</srai>,greetings.aiml
+0,Hii *,*,*,<srai>Hi</srai>,greetings.aiml

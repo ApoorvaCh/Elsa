@@ -1,0 +1,45 @@
+0,*,*,*,Here's a list of stuff I can help with you.#Newline  About vaccine#Comma#Newline  Type of vaccine#Comma#Newline  Precautions of vaccine#Comma#Newline  Effectiveness of vaccine#Comma#Newline  List of all types of vaccines#Comma#Newline  Vaccines based on age.,default.aiml
+0,About vaccine,*,*,Which vaccine do you want to know about?#Newline1.BCG#Newline2.Hepatitis B#Newline3.OPV#Newline4.DTaP#Newline5.HiB#Newline6.Rotavirus#Newline7.MMR#Newline8.Varicella#Newline9.Hepatitis A#Newline10. PCV,default.aiml
+0,BCG, PCV,*,BCG#Comma or bacille Calmette-Guerin#Comma is a vaccine for tuberculosis (TB) disease.  BCG is most commonly affects the underpriviliged persons#Comma living in the areas with poor sanitation and those that are malnourished or immunocompromised.,default.aiml
+0,Hepatitis B,PCV,*,<srai>About Hepatitis B </srai>,default.aiml
+0,OPV ,PCV,*,<srai>About OPV</srai>,default.aiml
+0,DTaP ,PCV,*,<srai>About DTaP</srai>,default.aiml
+0,HiB,PCV,*,<srai>About HiB</srai>,default.aiml
+0,Rotavirus ,PCV,*,<srai>About Rotavirus</srai>,default.aiml
+0,MMR,PCV,*,<srai>About MMR</srai>,default.aiml
+0,Varicella ,PCV,*,<srai>About Varicella</srai>,default.aiml
+0,Hepatitis A ,PCV,*,<srai>About Hepatitis A</srai>,default.aiml
+0,PCV ,PCV,*,<srai>About PCV</srai>,default.aiml
+0,Type of vaccine,*,*,Which vaccine's type#Comma do you want to know?#Newline1.BCG#Newline2.Hepatitis B#Newline3.OPV#Newline4.DTaP#Newline5.HiB#Newline6.Rotavirus#Newline7.MMR#Newline8.Varicella#Newline9.PCV#Newline10.Hepatitis A,default.aiml
+0,BCG,Hepatitis A,*,<srai>Type of BCG </srai>,default.aiml
+0,Hepatitis B,Hepatitis A,*,<srai>Type of Hepatitis B </srai>,default.aiml
+0,OPV,Hepatitis A,*,<srai>Type of OPV </srai>,default.aiml
+0,DTaP,Hepatitis A,*,<srai>Type of DTaP </srai>,default.aiml
+0,HiB,Hepatitis A,*,<srai>Type of HiB </srai>,default.aiml
+0,Rotavirus,Hepatitis A,*,<srai>Type of Rotavirus </srai>,default.aiml
+0,MMR,Hepatitis A,*,<srai>Type of MMR </srai>,default.aiml
+0,Varicella,Hepatitis A,*,<srai>Type of Varicella </srai>,default.aiml
+0,PCV,Hepatitis A,*,<srai>Type of PCV </srai>,default.aiml
+0,Hepatitis A,Hepatitis A,*,<srai>Type of Hepatitis A </srai>,default.aiml
+0,Precautions of vaccine,*,*,Which vaccine's precautions#Comma do you want to know?#Newline1.BCG#Newline2.Hepatitis B#Newline3.OPV#Newline4.DTaP#Newline5.HiB#Newline6.Rotavirus#Newline7.MMR#Newline8.Hepatitis A#Newline9.PCV#Newline10.Varicella,default.aiml
+0,BCG,Varicella,*,<srai>Precautions of BCG </srai>,default.aiml
+0,Hepatitis B,Varicella,*,<srai>Precautions of Hepatitis B </srai>,default.aiml
+0,OPV,Varicella,*,<srai>Precautions of OPV </srai>,default.aiml
+0,DTaP,Varicella,*,<srai>Precautions of DTaP </srai>,default.aiml
+0,HiB,Varicella,*,<srai>Precautions of HiB </srai>,default.aiml
+0,Rotavirus,Varicella,*,<srai>Precautions of Rotavirus </srai>,default.aiml
+0,MMR,Varicella,*,<srai>Precautions of MMR </srai>,default.aiml
+0,Hepatitis A,Varicella,*,<srai>Precautions of Hepatitis A</srai>,default.aiml
+0,PCV,Varicella,*,<srai>Precautions of PCV </srai>,default.aiml
+0,Varicella,Varicella,*,<srai>Precautions of Varicella </srai>,default.aiml
+0,Effectiveness of vaccine,*,*,Which vaccine's effectiveness#Comma do you want to know?#Newline1.BCG#Newline2.Hepatitis B#Newline3.OPV#Newline4.DTaP#Newline5.HiB#Newline6.Rotavirus#Newline7.Varicella#Newline8.Hepatitis A#Newline9.PCV#Newline10.MMR,default.aiml
+0,BCG,MMR,*,<srai>Effectiveness of BCG </srai>,default.aiml
+0,Hepatitis B,MMR,*,<srai>Effectiveness of Hepatitis B </srai>,default.aiml
+0,OPV,MMR,*,<srai>Effectiveness of OPV </srai>,default.aiml
+0,DTaP,MMR,*,<srai>Effectiveness of DTaP </srai>,default.aiml
+0,HiB,MMR,*,<srai>Effectiveness of HiB </srai>,default.aiml
+0,Rotavirus,MMR,*,<srai>Effectiveness of Rotavirus </srai>,default.aiml
+0,Varicella,MMR,*,<srai>Effectiveness of Varicella </srai>,default.aiml
+0,Hepatitis A,MMR,*,<srai>Effectiveness of Hepatitis A</srai>,default.aiml
+0,PCV,MMR,*,<srai>Effectiveness of PCV </srai>,default.aiml
+0,MMR,MMR,*,<srai>Effectiveness of MMR </srai>,default.aiml

@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+<pattern>Precautions of BCG </pattern>
+<template>Should not be used by the patients who are immunocompromised like HIV/AIDS patients or those whose are likely to become immunocompromised like candidates of organ transplantation. </template>
+</category>
+
+<category>
+<pattern>Precautions of BCG *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of Tb </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of Tb *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of Tuberculosis </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of Tuberculosis *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>BCG Precautions </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>BCG * Precautions </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>tb Precautions </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>tb * Precautions </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Tuberculosis Precautions </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Tuberculosis * Precautions </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * BCG </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * BCG *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Tb </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Tb *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Tuberculosis </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Tuberculosis *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions BCG </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions BCG *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+
+<category>
+<pattern>* precautions tb </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* precautions tb *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* precautions tuberculosis </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* precautions tuberculosis *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * BCG </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * BCG *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Tb </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Tb *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Tuberculosis </pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Tuberculosis *</pattern>
+<template><srai>Precautions of BCG  </srai> </template>
+</category>
+
+<category> 
+<pattern>Precautions of OPV </pattern>
+<template>OPV is contraindicated in children suffering from congenital immunodeficiency conditions. Children with AIDS, leukemia, or lymphoma. </template>
+</category>
+
+<category>
+<pattern>Precautions of Polio </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions of Oral poliovirus vaccine </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>OPV Precautions </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Polio Precautions </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern> Oral poliovirus vaccine precautions </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions * OPV </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions * Polio </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions * Oral poliovirus vaccine </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions OPV </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions Polio </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions Oral poliovirus vaccine </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions * OPV </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions * Polio </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions * Oral poliovirus vaccine </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category> 
+<pattern>Precautions of OPV *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of Polio *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions of Oral poliovirus vaccine *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>OPV * Precautions </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Polio * Precautions </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern> Oral poliovirus vaccine * precautions </pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions * OPV *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions * Polio *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>Precautions * Oral poliovirus vaccine *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions OPV *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions Polio *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions Oral poliovirus vaccine *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions * OPV *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions * Polio *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+<category>
+<pattern>* Precautions * Oral poliovirus vaccine *</pattern>
+<template><srai>Precautions of OPV </srai> </template>
+</category>	
+
+
+<category>
+<pattern>Precautions of Hepatitis B </pattern>
+<template>Anyone who is moderately or severely ill when a dose of vaccine is scheduled should probably wait until they recover before getting the vaccine. </template>
+</category>
+
+<category>
+<pattern>Precautions of hep b</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of hepatitisb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of hepb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hepatitis b Precautions</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hep b Precautions</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hepatitisb Precautions </pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hepb Precautions </pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hepatitis b </pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hep b</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hepatitisb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hepb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hepatitis b</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hep b</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hepatitisb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hepb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hepatitis b</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hep b</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hepatitisb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hepb</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of Hepatitis B *</pattern>
+<template><srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of hep b *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of hepatitisb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of hepb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hepatitis b * Precautions</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hep b * Precautions</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hepatitisb * Precautions </pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>hepb * Precautions </pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hepatitis b *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hep b *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hepatitisb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * hepb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hepatitis b *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hep b *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hepatitisb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions hepb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hepatitis b *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hep b *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hepatitisb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * hepb *</pattern>
+<template> <srai>Precautions of Hepatitis B </srai></template>
+</category>
+
+
+
+
+
+
+<category>
+<pattern>Precautions of DPT </pattern>
+<template>Not for use in anyone aged 7 years or above. </template>
+</category>
+
+<category>
+<pattern>Precautions of DTP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of DTaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of DTwP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DPT Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DTP Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DTaP Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DTwP Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DPT </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DTP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DTaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DTwP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DPT</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DTP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DTaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DTwP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DPT</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DTP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DTaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DTwP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of DPT *</pattern>
+<template><srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of DTP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of DTaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of DTwP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DPT * Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DTP * Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DTaP * Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DTwP * Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DPT *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DTP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DTaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DTwP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DPT *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DTP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DTaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DTwP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DPT *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DTP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DTaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DTwP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+<pattern>Precautions of DT </pattern>
+<template>Not for use in anyone aged 7 years or above. </template>
+</category>
+
+<category>
+<pattern>Precautions of Td</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of TdaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DT Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Td Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>TdaP Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DT </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Td</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * TdaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DT</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Td</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions TdaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DT</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Td</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * TdaP</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of DT *</pattern>
+<template><srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of Td *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of TdaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>DT * Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Td * Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>TdaP * Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * DT *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Td *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * TdaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions DT *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Td *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions TdaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * DT *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Td *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * TdaP *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+<pattern>Precautions of Tetanus </pattern>
+<template>Not for use in anyone aged 7 years or above. </template>
+</category>
+
+<category>
+<pattern>Precautions of Pertussis</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of Diphtheria</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Tetanus Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Pertussis Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Diphtheria Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Tetanus </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Pertussis</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Diphtheria</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Tetanus</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Pertussis</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Diphtheria</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Tetanus</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Pertussis</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Diphtheria</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of Tetanus *</pattern>
+<template><srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of Pertussis *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions of Diphtheria *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Tetanus * Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Pertussis * Precautions</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Diphtheria * Precautions </pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Tetanus *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Pertussis *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>Precautions * Diphtheria *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Tetanus *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Pertussis *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions Diphtheria *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Tetanus *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Pertussis *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+<category>
+<pattern>* Precautions * Diphtheria *</pattern>
+<template> <srai>Precautions of DPT </srai></template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern>Precautions of Hib </pattern>
+<template>Because Hib vaccine is not a live vaccine, so it can be given to immunocompromised individuals. The immune response to the vaccine may, however, be suboptimal. </template>
+</category>
+
+<category>
+<pattern>Precautions of Hib *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of Haemophilus </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of Haemophilus *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of H. influenza type B </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions of H. influenza type B *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Hib Precautions </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Hib * Precautions </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Precautions </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus * Precautions </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>H. influenza type B Precautions </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>H. influenza type B * Precautions </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Hib </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Hib *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Haemophilus </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * Haemophilus *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * H. influenza type B </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>Precautions * H. influenza type B *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions Hib </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions Hib *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+
+<category>
+<pattern>* precautions Haemophilus </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* precautions Haemophilus *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* precautions H. influenza type B </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* precautions H. influenza type B *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Hib </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Hib *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Haemophilus </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * Haemophilus *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * H. influenza type B </pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+
+<category>
+<pattern>* Precautions * H. influenza type B *</pattern>
+<template><srai>Precautions of Hib  </srai> </template>
+</category>
+</aiml>

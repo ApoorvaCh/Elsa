@@ -1,0 +1,230 @@
+0,Precautions of BCG ,*,*,Should not be used by the patients who are immunocompromised like HIV/AIDS patients or those whose are likely to become immunocompromised like candidates of organ transplantation.,precautions.aiml
+0,Precautions of BCG *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions of Tb,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions of Tb *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions of Tuberculosis,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions of Tuberculosis *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,BCG Precautions,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,BCG * Precautions,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Tb Precautions,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Tb * Precautions,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Tuberculosis Precautions,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Tuberculosis * Precautions,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions * BCG,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions * BCG *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions * Tb,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions * Tb *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions * Tuberculosis,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions * Tuberculosis *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions BCG,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions BCG *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions Tb,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions Tb *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions Tuberculosis,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions Tuberculosis *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions * BCG,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions * BCG *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions * Tb,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions * Tb *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions * Tuberculosis,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,* Precautions * Tuberculosis *,*,*,<srai>Precautions of BCG</srai>,precautions.aiml
+0,Precautions of OPV,*,*,OPV is contraindicated in children suffering from congenital immunodeficiency conditions.#Newline Children with AIDS#Comma leukemia#Comma or lymphoma.,precautions.aiml
+0,Precautions of polio,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions of Oral poliovirus vaccine,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,OPV Precautions,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Polio Precautions,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Oral poliovirus vaccine Precautions,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions * OPV,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions * polio,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions * Oral poliovirus vaccine,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions OPV,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions polio,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions Oral poliovirus vaccine,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions * OPV,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions * polio,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions * Oral poliovirus vaccine,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions of OPV *,*,*,OPV is contraindicated in children suffering from congenital immunodeficiency conditions.#Newline Children with AIDS#Comma leukemia#Comma or lymphoma.,precautions.aiml
+0,Precautions of polio *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions of Oral poliovirus vaccine *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,OPV * Precautions,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Polio * Precautions,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Oral poliovirus vaccine * Precautions,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions * OPV *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions * polio *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions * Oral poliovirus vaccine *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions OPV *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions polio *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions Oral poliovirus vaccine *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions * OPV *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions * polio *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,* Precautions * Oral poliovirus vaccine *,*,*,<srai>Precautions of OPV</srai>,precautions.aiml
+0,Precautions of Hepatitis B,*,*,Anyone who is moderately or severely ill when a dose of vaccine is scheduled should probably wait until they recover before getting the vaccine.,precautions.aiml
+0,Precautions of hep b,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions of hepatitisb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions of hepb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hepatitis b Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hep b Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hepatitisb Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hepb Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hepatitis b,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hep b,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hepatitisb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hepb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hepatitis b,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hep b,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hepatitisb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hepb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hepatitis b,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hep b,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hepatitisb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hepb,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions of Hepatitis B *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions of hep b *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions of hepatitisb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions of hepb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hepatitis b * Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hep b * Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hepatitisb * Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,hepb * Precautions,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hepatitis b *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hep b *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hepatitisb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions * hepb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hepatitis b *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hep b *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hepatitisb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions hepb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hepatitis b *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hep b *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hepatitisb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,* Precautions * hepb *,*,*,<srai>Precautions of Hepatitis B</srai>,precautions.aiml
+0,Precautions of DPT,*,*,Not for use in anyone aged 7 years or above.,precautions.aiml
+0,Precautions of DTP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DTaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DTwP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DPT Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DTP Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DTaP Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DTwP Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DPT,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DTP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DTaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DTwP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DPT,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DTP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DTaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DTwP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DPT,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DTP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DTaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DTwP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DPT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DTP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DTaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DTwP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DPT * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DTP * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DTaP * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DTwP * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DPT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DTP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DTaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DTwP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DPT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DTP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DTaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DTwP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DPT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DTP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DTaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DTwP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DT,*,*,Not for use in anyone aged 7 years or above.,precautions.aiml
+0,Precautions of Td,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of TdaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DT Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Td Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,TdaP Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DT,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Td,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * TdaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DT,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Td,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions TdaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DT,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Td,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * TdaP,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of DT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of Td *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of TdaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,DT * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Td * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,TdaP * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * DT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Td *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * TdaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions DT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Td *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions TdaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * DT *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Td *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * TdaP *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of Tetanus,*,*,Not for use in anyone aged 7 years or above.,precautions.aiml
+0,Precautions of Pertussis,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of Diphtheria,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Tetanus Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Pertussis Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Diphtheria Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Tetanus,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Pertussis,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Diphtheria,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Tetanus,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Pertussis,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Diphtheria,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Tetanus,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Pertussis,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Diphtheria,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of Tetanus *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of Pertussis *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of Diphtheria *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Tetanus * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Pertussis * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Diphtheria * Precautions,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Tetanus *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Pertussis *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions * Diphtheria *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Tetanus *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Pertussis *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions Diphtheria *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Tetanus *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Pertussis *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,* Precautions * Diphtheria *,*,*,<srai>Precautions of DPT</srai>,precautions.aiml
+0,Precautions of Hib ,*,*,Because Hib vaccine is not a live vaccine#Comma so it can be given to immunocompromised individuals. The immune response to the vaccine may#Comma however#Comma be suboptimal.,precautions.aiml
+0,Precautions of Hib *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions of Haemophilus,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions of Haemophilus *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions of H. Influenza type B,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions of H. Influenza type B *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Hib Precautions,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Hib * Precautions,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Haemophilus Precautions,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Haemophilus * Precautions,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,H. Influenza type B Precautions,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,H. Influenza type B * Precautions,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions * Hib,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions * Hib *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions * Haemophilus,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions * Haemophilus *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions * H. Influenza type B,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,Precautions * H. Influenza type B *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions Hib,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions Hib *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions Haemophilus,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions Haemophilus *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions H. Influenza type B,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions H. Influenza type B *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions * Hib,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions * Hib *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions * Haemophilus,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions * Haemophilus *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions * H. Influenza type B,*,*,<srai>Precautions of Hib</srai>,precautions.aiml
+0,* Precautions * H. Influenza type B *,*,*,<srai>Precautions of Hib</srai>,precautions.aiml

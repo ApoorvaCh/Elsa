@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+<pattern>vaccines based on age </pattern>
+<template>please tell the exact age of your child.
+Example : 1 year 2 months </template>
+</category>
+
+<category>
+<pattern> 0 months</pattern>
+<template>Did you vaccinate your child with BCG? </template>
+</category>
+
+<category>
+<pattern>0 year 0 months </pattern>
+<template><srai>0 months </srai> </template>
+</category>
+
+<category>
+<pattern>Yes</pattern>
+<that>Did you vaccinate your child with BCG? </that>
+<template>Good.
+Did you vaccinate your child with OPV 0? </template>
+</category>
+
+<category> 
+<pattern>Yes </pattern>
+<that>Did you vaccinate your child with OPV 0? </that>
+<template>Good.
+Did you vaccinate your child with Hep B1? </template>
+</category>
+
+<category>
+<pattern>Yes </pattern>
+<that>Did you vaccinate your child with Hep B1? </that>
+<template>Good.
+Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. </template>
+</category>
+
+<category>
+<pattern>Why * </pattern>
+<that>Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born.<hat>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born.</that>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born.</that>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+<category>
+<pattern>No </pattern>
+<that>Did you vaccinate your child with Hep B1? </that>
+<template>Please vaccinate your child with Hep B1 </template>
+</category>
+
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with Hep B1?<hat>
+<template><srai>About Hep B </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with Hep B1?</that>
+<template><srai>About Hep B </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child witHep B1?</that>
+<template><srai>About Hep B </srai> </template>
+</category>
+
+
+
+<category> 
+<pattern>No </pattern>
+<that>Did you vaccinate your child with OPV 0? </that>
+<template>Please vaccinate your child with OPV 0</template>
+</category>
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with OPV 0</that>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with OPV 0  </that>
+<template><srai>About OPV </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child with OPV 0  </that>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>No</pattern>
+<that>Did you vaccinate your child with BCG? </that>
+<template>Please vaccinate your child with BCG </template>
+</category>
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with BCG  </that>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with BCG  </that>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child with BCG  </that>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<category>
+<pattern> 1 month *</pattern>
+<template>Did you vaccinate your child with DTwP 1? </template>
+</category>
+
+<category>
+<pattern>0 year 1 month *</pattern>
+<template><srai>1 month * </srai> </template>
+</category>
+
+<category>
+<pattern>0 year 1 * months *</pattern>
+<template><srai>1 month *</srai> </template>
+</category>
+
+<category>
+<pattern>6 weeks</pattern>
+<template><srai>1 month *</srai> </template>
+</category>
+
+<category>
+<pattern>1 month</pattern>
+<template><srai>1 month * </srai> </template>
+</category>
+
+<category>
+<pattern>Yes</pattern>
+<that>Did you vaccinate your child with DTwP? </that>
+<template>Good.
+Did you vaccinate your child with IPV 1? </template>
+</category>
+
+<category> 
+<pattern>Yes </pattern>
+<that>Did you vaccinate your child with IPV 1? </that>
+<template>Good.
+Did you vaccinate your child with Hep B2? </template>
+</category>
+
+<category>
+<pattern>Yes </pattern>
+<that>Did you vaccinate your child with Hep B2? </that>
+<template>Good.
+Did you vaccinate your child with Hib 1? </template>
+</category>
+
+<category>
+<pattern>Yes</pattern>
+<that>Did you vaccinate your child with Hib 1? </that>
+<template>Good.
+Did you vaccinate your child with Rotavirus 1? </template>
+</category>
+
+<category> 
+<pattern>Yes </pattern>
+<that>Did you vaccinate your child with Rotavirus 1? </that>
+<template>Good.
+Did you vaccinate your child with PCV 2? </template>
+</category>
+
+<category>
+<pattern>Yes </pattern>
+<that>Did you vaccinate your child with PCV 2? </that>
+<template>Good.
+Then the next vaccine is DTwP 2 and it should be given to the child at 10th week from the day, he/she was born. </template>
+</category>
+
+
+<category>
+<pattern>Why * </pattern>
+<that>Then the next vaccine is DTwP 2 and it should be given to the child at 10th week from the day, he/she was born.<hat>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Then the next vaccine is DTwP 2 and it should be given to the child at 10th week from the day, he/she was born.</that>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Then the next vaccine is DTwP 2 and it should be given to the child at 10th week from the day, he/she was born.</that>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+<category>
+<pattern>No </pattern>
+<that>Did you vaccinate your child with PCV 1? </that>
+<template>Please vaccinate your child with PCV 1 </template>
+</category>
+
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with PCV 1?<hat>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with PCV 1?</that>
+<template><srai>About PCV </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child with PCV 1?</that>
+<template><srai>About PCV </srai> </template>
+</category>
+
+
+
+<category> 
+<pattern>No </pattern>
+<that>Did you vaccinate your child with Rotavirus 1? </that>
+<template>Please vaccinate your child with Rotavirus 1</template>
+</category>
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with Rotavirus 1</that>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with Rotavirus 1  </that>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child with Rotavirus 1  </that>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>No</pattern>
+<that>Did you vaccinate your child with Hib 1? </that>
+<template>Please vaccinate your child with Hib 1 </template>
+</category>
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with hib 1  </that>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with hib 1  </that>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child with hib 1  </that>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+
+<category>
+<pattern>No </pattern>
+<that>Did you vaccinate your child with Hep B2? </that>
+<template>Please vaccinate your child with Hep B2 </template>
+</category>
+
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with Hep B2?<hat>
+<template><srai>About Hep B </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with Hep B2?</that>
+<template><srai>About Hep B </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child witHep B2?</that>
+<template><srai>About Hep B </srai> </template>
+</category>
+
+
+
+<category> 
+<pattern>No </pattern>
+<that>Did you vaccinate your child with IPV 1? </that>
+<template>Please vaccinate your child with IPV 1</template>
+</category>
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with IPV 1</that>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with IPV 1  </that>
+<template><srai>About OPV </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child with IPV 1  </that>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>No</pattern>
+<that>Did you vaccinate your child with DTwP 1? </that>
+<template>Please vaccinate your child with DTwP 1 </template>
+</category>
+
+<category>
+<pattern>Why * </pattern>
+<that>Please vaccinate your child with DTwP 1  </that>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+<category>
+<pattern>* Why * </pattern>
+<that>Please vaccinate your child with DTwP 1  </that>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+
+<category>
+<pattern>* Why </pattern>
+<that>Please vaccinate your child with DTwP 1  </that>
+<template><srai>About DTwP </srai> </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+</aiml>

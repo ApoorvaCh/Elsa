@@ -1,0 +1,2310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+<pattern> About BCG</pattern>
+<template>BCG is most commonly affects the underpriviliged persons, living in the areas with poor sanitation and those that are malnourished or immunocompromised. It is a vaccine primarily used against tuberculosis(TB).  </template>
+</category>
+
+<category>
+<pattern>About BCG *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About tuberculosis </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About tuberculosis *</pattern>
+<template><srai>About BCG </srai> </template>
+</category> 
+
+<category>
+<pattern>About TB </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About TB *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+<category>
+<pattern>TB </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>TB *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+<category>
+<pattern>BCG</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>BCG *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+<category>
+<pattern>Tuberculosis</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>Tuberculosis *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About * TB </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About * TB *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About * BCG </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About * BCG *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About * Tuberculosis </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>About * Tuberculosis *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about Tuberculosis </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about Tuberculosis *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about Tb </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about Tb *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about BCG </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about BCG *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about * BCG </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about * BCG *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about * tb </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about * tb *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about * tuberculosis </pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* about * tuberculosis *</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* BCG</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* tuberculosis</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+<category>
+<pattern>* tb</pattern>
+<template><srai>About BCG </srai> </template>
+</category>
+
+
+<category>
+<pattern>About OPV </pattern>
+<template>Polio is caused by Polio virus, an RNA virus of the Picornaviridae family. OPV (Oral Polio Vaccine) is a vaccine, used to prevent poliomyelitis (polio).  </template>
+</category>
+
+<category>
+<pattern>About OPV *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About Polio </pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About Polio *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>Polio</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>Polio *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>OPV</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>OPV *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>Oral Polio Vaccine</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About Oral Polio Vaccine</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About * Polio</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About * Polio *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About * OPV</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About * OPV *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About * Oral Polio Vaccine</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About Oral Polio Vaccine</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About Polio</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About Polio *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About OPV</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About OPV *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About * OPV</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About * OPV *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About * Oral Polio Vaccine</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About * Polio</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>* About * Polio *</pattern>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>About Hepatitis B </pattern>
+<template>Hepatitis B is caused by HBV, a DNA virus of the Hepadnaviridae family. It is a serious condition which can become chronic and lead to liver cirrhosis. </template>
+</category>
+
+<category>
+<pattern>About Hepatitis B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+
+<category>
+<pattern>About Hep B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>About Hep B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>about HepatitisB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>about HepatitisB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>about hepB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>about hepB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>Hep B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>Hep B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>HepatitisB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>HepatitisB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>HepB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>HepB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>about * Hepatitis B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>about * Hepatitis B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>About * hep B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>About * hep B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>About * hepatitisB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>About * hepB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>About * hepB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hepatitis B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hepatitis B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hep B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hep B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hepatitisB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hepatitisB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hepB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About hepB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About * hepatitis B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About * hepatitis B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About * hep B </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* About * hep B *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* about * hepatitisB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* about * hepB </pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>* about * hepB *</pattern>
+<template><srai>About Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>About DPT </pattern>
+<template>DPT (also DTP and DTwP) refers to a class of cimbination vaccines against three infectious diseases in humans: diphtheria, pertussis and tetanus. The vaccine components include diptheria and tetanus toxoids and killed whole cells of the bacterium that causes pertussis. </template>
+</category>
+
+<category>
+<pattern>About DPT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+
+<category>
+<pattern>About DTP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About DTP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about DTaP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about DTaP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about DTwP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about DTwP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DPT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DPT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTwP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DTwP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about * DPT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about * DPT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * DTP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * DTP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * DTaP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * DTaP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * DTwP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * DTwP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DPT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DPT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DTP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DTP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DTaP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DTaP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DTwP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DTwP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * DPT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * DPT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * DTP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * DTP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * DTaP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * DTaP *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * DTwP </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * DTwP *</pattern>
+<template><srai>About DPT </template>
+</category>
+
+<pattern>About DT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About DT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About td </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About td *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about Tdap </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about Tdap *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>DT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>td</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>td *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Tdap </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Tdap *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about * DT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about * DT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * td </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * td *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * Tdap </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * Tdap *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About DT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About td </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About td *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Tdap </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Tdap *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * DT </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * DT *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * td </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * td *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Tdap </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Tdap *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<pattern>About Tetanus </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About Tetanus *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About Pertussis </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About Pertussis *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about Diphtheria </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about Diphtheria *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Tetanus </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Tetanus *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Pertussis</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Pertussis *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Diphtheria </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>Diphtheria *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about * Tetanus </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>about * Tetanus *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * Pertussis </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * Pertussis *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * Diphtheria </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>About * Diphtheria *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Tetanus </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Tetanus *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Pertussis </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Pertussis *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Diphtheria </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About Diphtheria *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * Tetanus </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * Tetanus *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * Pertussis </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* About * Pertussis *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Diphtheria </pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Diphtheria *</pattern>
+<template><srai>About DPT </srai> </template>
+</category>
+
+<category>
+<pattern> About HiB</pattern>
+<template>Haempphilus influenza type b is a major cause of meningitis, pneumonia, and epiglottittis in infants and young children. </template>
+</category>
+
+<category>
+<pattern>About HiB *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About Haemophilus Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About Haemophilus Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category> 
+
+<category>
+<pattern>About Haemophilus Influenza B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About Haemophilus Influenza B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+
+<category>
+<pattern>Haemophilus Influenza B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Influenza B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+
+<category>
+<pattern>HiB</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>HiB *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+
+<category>
+<pattern>Haemophilus Influenza type B</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * Haemophilus Influenza B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * Haemophilus Influenza B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * HiB </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * HiB *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * Haemophilus Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * Haemophilus Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about Haemophilus Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about Haemophilus Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about Haemophilus Influenza B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about Haemophilus Influenza B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about HiB </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about HiB *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * HiB </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * HiB *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Haemophilus Influenza B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Haemophilus Influenza B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Haemophilus Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Haemophilus Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About H. Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About H. Influenza type *</pattern>
+<template><srai>About HiB </srai> </template>
+</category> 
+
+<category>
+<pattern>About Haemophilus Influenza </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About Haemophilus Influenza *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+
+<category>
+<pattern>Haemophilus Influenza </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>Haemophilus Influenza *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>H. Influenza type B</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>H. Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * Haemophilus Influenza </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * Haemophilus Influenza *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * H. Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>About * H. Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about H. Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about H. Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about Haemophilus Influenza </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about Haemophilus Influenza *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Haemophilus Influenza </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Haemophilus Influenza *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * H. Influenza type B </pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern>* about * H. Influenza type B *</pattern>
+<template><srai>About HiB </srai> </template>
+</category>
+
+<category>
+<pattern> About Rotavirus</pattern>
+<template>Rotavirus is an important cause of severe gastroenteritis in infants and young children, around the world. </template>
+</category>
+
+<category>
+<pattern>About Rotavirus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About Rota virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About Rota virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category> 
+
+<category>
+<pattern>About RV5 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About RV5 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+
+<category>
+<pattern>RV5 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>RV5 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+
+<category>
+<pattern>Rotavirus</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>Rotavirus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+
+<category>
+<pattern>Rota virus</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>Rota virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * RV5 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * RV5 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * Rotavirus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * Rotavirus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * Rota virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * Rota virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about Rota virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about Rota virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about RV5 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about RV5 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about Rotavirus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about Rotavirus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Rotavirus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Rotavirus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * RV5 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * RV5 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Rota virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Rota virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About RNA virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About RNA virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category> 
+
+<category>
+<pattern>About RV1 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About RV1 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+
+<category>
+<pattern>RV1 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>RV1 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>RNA virus</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>RNA virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * RV1 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * RV1 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * RNA virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>About * RNA virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about RNA virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about RNA virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about RV1 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about RV1 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * RV1 </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * RV1 *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * RNA virus </pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>* about * RNA virus *</pattern>
+<template><srai>About Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern> About MMR</pattern>
+<template>MMR vaccine protects against three diseases: measles, mumps, and rubella. CDC recommends children get two doses of MMR vaccine, starting with the first dose at 12 through 15 months of age, and the second dose at 4 through 6 years of age.  </template>
+</category>
+
+<category>
+<pattern>About MMR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About MPR </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About MPR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category> 
+
+<category>
+<pattern>About Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+
+<category>
+<pattern>Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+
+<category>
+<pattern>MMR</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>MMR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+
+<category>
+<pattern>MPR</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>MPR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * MMR </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * MMR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * MPR </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * MPR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about MPR </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about MPR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about MMR </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about MMR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * MMR </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * MMR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * MPR </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * MPR *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About MMRV </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About MMRV *</pattern>
+<template><srai>About MMR </srai> </template>
+</category> 
+
+<category>
+<pattern>About Measles, Mumps and Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About Measles, Mumps and Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+
+<category>
+<pattern>Measles, Mumps and Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>Measles, Mumps and Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>MMRV</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>MMRV *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * Measles, Mumps and Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * Measles, Mumps and Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * MMRV </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>About * MMRV *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about MMRV </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about MMRV *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about Measles, Mumps and Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about Measles, Mumps and Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Measles, Mumps and Rubella </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Measles, Mumps and Rubella *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * MMRV </pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern>* about * MMRV *</pattern>
+<template><srai>About MMR </srai> </template>
+</category>
+
+<category>
+<pattern> About Varicella</pattern>
+<template>Chickenpox is a very contagious disease caused by the varicella-zoster virus. The best way to prevent chickenpox is to get the Varicella vaccine.  </template>
+</category>
+
+<category>
+<pattern>About Varicella *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About chickenpox </pattern>
+<template><srai>AVaricellat Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About chickenpox *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category> 
+
+<category>
+<pattern>About Varivax </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About Varivax *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+
+<category>
+<pattern>Varivax </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>Varivax *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+
+<category>
+<pattern>Varicella</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>Varicella *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+
+<category>
+<pattern>chickenpox</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>chickenpox *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About * Varivax </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About * Varivax *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About * Varicella </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About * Varicella *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About * chickenpox </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>About * chickenpox *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about chickenpox </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about chickenpox *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about Varivax </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about Varivax *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about Varicella </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about Varicella *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Varicella </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Varicella *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Varivax </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Varivax *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about * chickenpox </pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>* about * chickenpox *</pattern>
+<template><srai>About Varicella </srai> </template>
+</category>
+
+<category>
+<pattern> About Hepatitis A</pattern>
+<template>Hepatitis A is a vaccine-preventable, communicable disease of the liver caused by the hepatitis A virus. The best way to prevent hepatitis A infection is to get vaccinated.  </template>
+</category>
+
+<category>
+<pattern>About Hepatitis A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About HAV </pattern>
+<template><srai>AVaricellat Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About HAV *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category> 
+
+<category>
+<pattern>About Hep A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About Hep A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+
+<category>
+<pattern>Hep A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>Hep A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+
+<category>
+<pattern>Hepatitis A</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+
+<category>
+<pattern>HAV</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>HAV *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About * Hep A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About * Hep A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About * Hepatitis A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About * Hepatitis A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About * HAV </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>About * HAV *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about HAV </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about HAV *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about Hep A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about Hep A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about Hepatitis A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about Hepatitis A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Hepatitis A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Hepatitis A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Hep A </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Hep A *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about * HAV </pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>* about * HAV *</pattern>
+<template><srai>About Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern> About PCV</pattern>
+<template>PCV helps to prevent pneumococcal disease, which is any type of infection caused by Streptococcus pneumoniae bacteria.  </template>
+</category>
+
+<category>
+<pattern>About PCV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About Pneumococcal conjugate vaccine </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About Pneumococcal conjugate vaccine *</pattern>
+<template><srai>About PCV </srai> </template>
+</category> 
+
+<category>
+<pattern>About Pneumococcal </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About Pneumococcal *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+
+<category>
+<pattern>Pneumococcal </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>Pneumococcal *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+
+<category>
+<pattern>PCV</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>PCV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+
+<category>
+<pattern>Pneumococcal conjugate vaccine</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>Pneumococcal conjugate vaccine *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * Pneumococcal </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * Pneumococcal *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * PCV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * PCV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * Pneumococcal conjugate vaccine </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * Pneumococcal conjugate vaccine *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about Pneumococcal conjugate vaccine </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about Pneumococcal conjugate vaccine *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about Pneumococcal </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about Pneumococcal *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about PCV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about PCV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * PCV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * PCV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Pneumococcal </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Pneumococcal *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Pneumococcal conjugate vaccine </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * Pneumococcal conjugate vaccine *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About conjugate </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About conjugate *</pattern>
+<template><srai>About PCV </srai> </template>
+</category> 
+
+<category>
+<pattern>About PPSV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About PPSV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+
+<category>
+<pattern>PPSV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>PPSV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>conjugate</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>conjugate *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * PPSV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * PPSV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * conjugate </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>About * conjugate *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about conjugate </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about conjugate *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about PPSV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about PPSV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * PPSV </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * PPSV *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * conjugate </pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+<category>
+<pattern>* about * conjugate *</pattern>
+<template><srai>About PCV </srai> </template>
+</category>
+
+</aiml>

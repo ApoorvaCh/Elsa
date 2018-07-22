@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+<pattern>Hi </pattern>
+<template>
+<random>
+<li>Hi nice to see you! </li>
+<li>Hi how are you? </li>
+<li>Hi! It's delightful to see you.</li>
+<li>Hi it's great to see you! </li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>Hello </pattern>
+<template><srai>Hi</srai> </template>
+</category>
+
+<category>
+<pattern>Hey </pattern>
+<template><srai>Hi</srai> </template>
+</category>
+
+<category>
+<pattern>Hii </pattern>
+<template><srai>Hi</srai> </template>
+</category>
+
+
+<category>
+<pattern>Hello *</pattern>
+<template><srai>Hi</srai> </template>
+</category>
+
+<category>
+<pattern>Hi * </pattern>
+<template><srai>Hi</srai> </template>
+</category>
+
+<category>
+<pattern>Hey * </pattern>
+<template><srai>Hi</srai> </template>
+</category>
+
+<category>
+<pattern>hii * </pattern>
+<template><srai>Hi</srai> </template>
+</category>
+
+</aiml>

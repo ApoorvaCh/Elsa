@@ -1,0 +1,261 @@
+0,Effectiveness of BCG,*,*,BCG is the only vaccine currently available for the control of TB. Document evidence has established that it provides good protection in children against disseminated TB and TB meningitis.,effectiveness.aiml
+0,Effectiveness of BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness of TB,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness of TB *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness of Tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness of Tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,tb Effectiveness,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,tb * Effectiveness,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,tuberculosis Effectiveness,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,tuberculosis * Effectiveness *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,BCG Effectiveness,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,BCG * Effectiveness *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness * BCG,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness * BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness * TB,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness * TB *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness * Tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness * Tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness BCG,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness tb,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness tb *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness * BCG,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness * BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness * tb,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness * tb *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness * tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* Effectiveness * tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness * TB *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness * TB *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness TB *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness TB,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness TB *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness TB,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness * TB,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness * BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness * BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness BCG,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness BCG,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness * BCG,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness * tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness * tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about Effectiveness tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,* about * Effectiveness * tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about * Effectiveness * BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about * Effectiveness * tb *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about * Effectiveness * tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness * BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness * tb *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness * tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness BCG *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness tb *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness tuberculosis *,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness BCG,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness tb,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,about Effectiveness tuberculosis,*,*,<srai>Effectiveness of BCG  </srai>,effectiveness.aiml
+0,Effectiveness of OPV,*,*,OPVs are safe and effective and offer long lasting protection against the serotypes which they target. OPV stimulates good mucosal immunity#Comma which is why it is so effective at interrupting transmission of the virus.,effectiveness.aiml
+0,Effectiveness of OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness of Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness of Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness of Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,OPV Effectiveness,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,OPV * Effectiveness,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Oral poliovirus vaccine Effectiveness,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Polio Effectiveness,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Polio * Effectiveness,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness * OPV,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness * OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness * Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness * Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness * Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness OPV,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness * OPV,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness * OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness * Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness * Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* Effectiveness * Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness * Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness * Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness * Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness * OPV *,*,*,<srai>Effectiveness of OPV </srai>,effectiveness.aiml
+0,* about Effectiveness * OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness OPV,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness OPV,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness * OPV,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness * Oral poliovirus vaccine *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness * Oral poliovirus vaccine *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness Oral poliovirus vaccine *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about Effectiveness Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness Oral poliovirus vaccine *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,* about * Effectiveness * Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about * Effectiveness * OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about * Effectiveness * Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about * Effectiveness * Oral poliovirus vaccine *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness * OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness * Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness * Oral poliovirus vaccine *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness OPV *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness Polio *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness Oral poliovirus vaccine *,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness OPV,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness Polio,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,about Effectiveness Oral poliovirus vaccine,*,*,<srai>Effectiveness of OPV  </srai>,effectiveness.aiml
+0,Effectiveness of Hepatitis B,*,*,Hepatitis B vaccine provides greater than 90% protection to immunized children and adults#Comma for a long duration of time.,effectiveness.aiml
+0,Effectiveness of hepatitis b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness of hep b,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness of hep b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness of hepatitisb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness of hepatitisb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness of hepb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness of hepb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hepatitis b,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hepatitis b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hep b,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hep b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hepatitisb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hepatitisb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hepb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness * hepb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hepatitis b,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hepatitis b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hep b,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hep b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hepatitisb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hepatitisb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hepb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness hepb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hepatitis b,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hepatitis b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hep b,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hep b *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hepatitisb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hepatitisb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hepb,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,* Effectiveness * hepb *,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hepatitis b Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hepatitis b * Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hep b Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hep b * Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hepatitisb Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hepatitisb * Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hepb Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,hepb * Effectiveness ,*,*,<srai>Effectiveness of Hepatitis B</srai>,effectiveness.aiml
+0,Effectiveness of DPT,*,*,There is not yet sufficient evidence on how effective this pentavalent vaccine is compared to the individual vaccines.,effectiveness.aiml
+0,Effectiveness of DPT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DTP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DTP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DTaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DTaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DTwP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DTwP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DPT,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DPT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DTP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DTP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DTaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DTaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DTwP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DTwP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DPT,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DPT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DTP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DTP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DTaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DTaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DTwP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DTwP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DPT,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DPT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DTP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DTP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DTaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DTaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DTwP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DTwP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DPT Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DPT * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DTP Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DTP * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DTaP Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DTaP * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DTwP Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DTwP * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DT,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of DT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Td,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Td *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of TdaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of TdaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DT,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * DT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Td,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Td *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * TdaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * TdaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DT,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness DT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Td,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Td *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness TdaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness TdaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DT,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * DT *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Td,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Td *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * TdaP,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * TdaP *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DT Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,DT * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Td Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Td * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,TdaP Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,TdaP * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Tetanus,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Tetanus *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Pertussis,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Pertussis *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Diphtheria,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness of Diphtheria *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Tetanus,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Tetanus *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Pertussis,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Pertussis *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Diphtheria,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Effectiveness * Diphtheria *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Tetanus,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Tetanus *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Pertussis,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Pertussis *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Diphtheria,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness Diphtheria *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Tetanus,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Tetanus *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Pertussis,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Pertussis *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Diphtheria,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,* Effectiveness * Diphtheria *,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Tetanus Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Tetanus * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Pertussis Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Pertussis * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Diphtheria Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml
+0,Diphtheria * Effectiveness ,*,*,<srai>Effectiveness of DPT</srai>,effectiveness.aiml

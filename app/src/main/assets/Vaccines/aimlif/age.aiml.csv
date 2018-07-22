@@ -1,0 +1,72 @@
+0,vaccines based on age,*,*,please tell the exact age of your child.#NewlineExample : 1 year 2 months ,age.aiml
+0,0 months,*,*,Did you vaccinate your child with BCG?,age.aiml
+0,0 year 0 month,*,*,<srai>0 months </srai>,age.aiml
+0,Yes,Did you vaccinate your child with BCG,*,Good.#NewlineDid you vaccinate your child with OPV 0?,age.aiml
+0,Yes,Did you vaccinate your child with OPV 0 ,*,Good.#NewlineDid you vaccinate your child with Hep B1?,age.aiml
+0,Yes,Did you vaccinate your child with Hep B1 ,*,Good.#NewlineThen the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born.
+0,Why *,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,* Why *,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,* Why,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,Why,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,No,Did you vaccinate your child with Hep B1 ,*,Please vaccinate your child with Hep B1.,age.aiml
+0,Why *,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,* Why *,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,* Why,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,Why,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,No,Did you vaccinate your child with OPV 0 ,*,Please vaccinate your child with OPV 0.,age.aiml
+0,Why *,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,* Why *,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,* Why,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,Why,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,No,Did you vaccinate your child with BCG ,*,Please vaccinate your child with BCG.,age.aiml
+0,Why *,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,* Why *,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,* Why,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,Why,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,1 month *,*,*,Did you vaccinate your child with DTwP 1?,age.aiml
+0,0 year 1 month *,*,*,<srai>1 month * </srai>,age.aiml
+0,0 year 1 * months *,*,*,<srai>1 month * </srai>,age.aiml
+0,0 year 6 weeks,*,*,<srai>1 month * </srai>,age.aiml
+0,1 month,*,*,<srai>1 month * </srai>,age.aiml
+0,Yes,Did you vaccinate your child with DTwP 1,*,Good.#NewlineDid you vaccinate your child with IPV 1?,age.aiml
+0,Yes,Did you vaccinate your child with IPV 1 ,*,Good.#NewlineDid you vaccinate your child with Hep B2?,age.aiml
+0,Yes,Did you vaccinate your child with Hep B2 ,*,Good.#NewlineDid you vaccinate your child with Hib 1?,age.aiml.
+0,Yes,Did you vaccinate your child with Hib 1,*,Good.#NewlineDid you vaccinate your child with Rotavirus 1?,age.aiml
+0,Yes,Did you vaccinate your child with Rotavirus 1 ,*,Good.#NewlineDid you vaccinate your child with PCV 1?,age.aiml
+0,Yes,Did you vaccinate your child with PCV 1 ,*,Good.#NewlineThen the next vaccine is DTwP 2 and it should be given to the child at 10th week from the day#Comma he/she was born.,age.aiml
+0,Why *,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,* Why *,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,* Why,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,Why,Then the next vaccine is DTwP and it should be given to the child at 6th week from the day, he/she was born. ,*,<srai>About DTwP </srai>,age.aiml
+0,No,Did you vaccinate your child with Hep B1 ,*,Please vaccinate your child with Hep B1.,age.aiml
+0,Why *,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,* Why *,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,* Why,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,Why,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,No,Did you vaccinate your child with OPV 0 ,*,Please vaccinate your child with OPV 0.,age.aiml
+0,Why *,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,* Why *,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,* Why,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,Why,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,No,Did you vaccinate your child with BCG ,*,Please vaccinate your child with BCG.,age.aiml
+0,Why *,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,* Why *,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,* Why,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,Why,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,No,Did you vaccinate your child with Hep B1 ,*,Please vaccinate your child with Hep B1.,age.aiml
+0,Why *,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,* Why *,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,* Why,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,Why,Please vaccinate your child with Hep B1 ,*,<srai>About Hep B </srai>,age.aiml
+0,No,Did you vaccinate your child with OPV 0 ,*,Please vaccinate your child with OPV 0.,age.aiml
+0,Why *,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,* Why *,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,* Why,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,Why,Please vaccinate your child with OPV 0 ,*,<srai>About OPV </srai>,age.aiml
+0,No,Did you vaccinate your child with BCG ,*,Please vaccinate your child with BCG.,age.aiml
+0,Why *,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,* Why *,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,* Why,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+0,Why,Please vaccinate your child with BCG ,*,<srai>About BCG </srai>,age.aiml
+
+

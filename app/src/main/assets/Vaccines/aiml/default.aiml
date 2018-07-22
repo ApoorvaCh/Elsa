@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+<pattern> *</pattern>
+<template> Here's a list of stuff I can help with you.
+  About vaccine, 
+  Type of vaccine, 
+  Precautions of vaccine, 
+  Effectiveness of vaccine, 
+  List of all types of vaccines, 
+  Vaccines based on age.
+</template>
+</category>
+
+
+<category>
+<pattern>About vaccine</pattern>
+<template>Which vaccine do you want to know about?
+1.BCG
+2.Hepatitis B
+3.OPV
+4.DTaP
+5.HiB
+6.Rotavirus
+7.MMR
+8.Varicella
+9.Hepatitis A.
+10.PCV
+
+</template>
+</category>
+
+<category>
+<pattern>BCG</pattern>
+<that>PCV</that>
+<template>BCG, or bacille Calmette-Guerin, is a vaccine for tuberculosis (TB) disease. It is most commonly affects the underpriviliged persons, living in the areas with poor sanitation and those that are malnourished or immunocompromised.</template>
+</category>
+
+<category>
+<pattern>Hepatitis B </pattern>
+<that>PCV </that>
+<template><srai>About hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>OPV </pattern>
+<that>PCV </that>
+<template><srai>About OPV </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP </pattern>
+<that>PCV </that>
+<template><srai>About DTaP</srai> </template>
+</category>
+
+<category>
+<pattern>HiB </pattern>
+<that>PCV </that>
+<template><srai>About HiB</srai> </template>
+</category>
+
+<category>
+<pattern>Rotavirus </pattern>
+<that>PCV </that>
+<template><srai>About Rotavirus</srai> </template>
+</category>
+
+<category>
+<pattern>MMR </pattern>
+<that>PCV </that>
+<template><srai>About MMR</srai> </template>
+</category>
+
+<category>
+<pattern>Varicella </pattern>
+<that>PCV </that>
+<template><srai>About Varicella</srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis A </pattern>
+<that>PCV </that>
+<template><srai>About Hepatitis A</srai> </template>
+</category>
+
+<category>
+<pattern>PCV </pattern>
+<that>PCV </that>
+<template><srai>About PCV</srai> </template>
+</category>
+
+
+
+
+
+<category>
+<pattern>Type of vaccine</pattern>
+<template>Which vaccine's type, do you want to know?
+1.BCG
+2.Hepatitis B
+3.OPV
+4.DTaP
+5.HiB
+6.Rotavirus
+7.MMR
+8.Varicella
+9.PCV
+10.Hepatitis A
+</template>
+</category>
+
+<category>
+<pattern>BCG </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of BCG </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis B </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of Hepatitis B</srai> </template>
+</category>
+
+<category>
+<pattern>OPV </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of OPV </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of DTaP </srai> </template>
+</category>
+
+<category>
+<pattern>HiB </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of HiB </srai> </template>
+</category>
+
+<category>
+<pattern>Rotavirus </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>MMR </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of MMR </srai> </template>
+</category>
+
+<category>
+<pattern>Varicella </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>PCV </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of PCV </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis A </pattern>
+<that>Hepatitis A </that>
+<template><srai>Type of Hepatitis A </srai> </template>
+</category>
+
+
+
+<category>
+<pattern>Precautions of vaccine</pattern>
+<template>Which vaccine's precautions, do you want to know?
+1.BCG
+2.Hepatitis B
+3.OPV
+4.DTaP
+5.HiB
+6.Rotavirus
+7.MMR
+8.Hepatitis A
+9.PCV
+10.Varicella
+</template>
+</category>
+
+
+<category>
+<pattern>BCG </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of BCG </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis B </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>OPV </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of OPV </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of DTaP </srai> </template>
+</category>
+
+<category>
+<pattern>HiB </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of HiB </srai> </template>
+</category>
+
+<category>
+<pattern>Rotavirus </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>MMR </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of MMR </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis A </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>PCV </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of PCV </srai> </template>
+</category>
+
+<category>
+<pattern>Varicella </pattern>
+<that> Varicella </that>
+<template><srai>Precautions of Varicella </srai> </template>
+</category>
+
+
+
+<category>
+<pattern>Effectiveness of vaccine</pattern>
+<template>Which vaccine's effectiveness, do you want to know?
+1.BCG
+2.Hepatitis B
+3.OPV
+4.DTaP
+5.HiB
+6.Rotavirus
+7.Varicella
+8.Hepatitis A
+9.PCV
+10.MMR
+</template>
+</category>
+
+
+<category>
+<pattern>BCG </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of BCG </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis B </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of Hepatitis B </srai> </template>
+</category>
+
+<category>
+<pattern>OPV </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of OPV </srai> </template>
+</category>
+
+<category>
+<pattern>DTaP </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of DTaP </srai> </template>
+</category>
+
+<category>
+<pattern>HiB </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of HiB </srai> </template>
+</category>
+
+<category>
+<pattern>Rotavirus </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of Rotavirus </srai> </template>
+</category>
+
+<category>
+<pattern>Varicella </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of Varicella </srai> </template>
+</category>
+
+<category>
+<pattern>Hepatitis A </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of Hepatitis A </srai> </template>
+</category>
+
+<category>
+<pattern>PCV </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of PCV </srai> </template>
+</category>
+
+<category>
+<pattern>MMR </pattern>
+<that> MMR </that>
+<template><srai>Effectiveness of MMR </srai> </template>
+</category>
+
+
+</aiml>
